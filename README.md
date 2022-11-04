@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Lihle2018
+- 👋 Hi, I’m Lihle Mqhayi
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning ASP .NET Core 3.1
-- 💞️ I’m looking to collaborate on open source project to apply my skills
+- 🌱 I’m currently learning maui blazor
+- 💞️ I’m open to work
 - 📫 How to reach me: Email address- mqhayilihle@gmail.com
 - 
 
